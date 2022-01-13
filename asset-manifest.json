@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OtokocYedekParcaUygulama/static/css/main.ef7f9f5e.css",
+    "main.js": "/OtokocYedekParcaUygulama/static/js/main.d56c28f7.js",
+    "static/js/787.51d31b3b.chunk.js": "/OtokocYedekParcaUygulama/static/js/787.51d31b3b.chunk.js",
+    "index.html": "/OtokocYedekParcaUygulama/index.html",
+    "main.ef7f9f5e.css.map": "/OtokocYedekParcaUygulama/static/css/main.ef7f9f5e.css.map",
+    "main.d56c28f7.js.map": "/OtokocYedekParcaUygulama/static/js/main.d56c28f7.js.map",
+    "787.51d31b3b.chunk.js.map": "/OtokocYedekParcaUygulama/static/js/787.51d31b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7f9f5e.css",
+    "static/js/main.d56c28f7.js"
+  ]
+}
